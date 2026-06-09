@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>question</title>
+</head>
+<body>
+  <p>const fd = await page.evaluate(() =&gt; [...document.querySelectorAll('form')].map(f=&gt;({action:f.action,fields:[...f.elements].map(e=&gt;({name:e.name,type:e.type,value:e.value}))})));</p>
+</body>
+</html>

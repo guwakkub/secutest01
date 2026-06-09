@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>question</title>
+</head>
+<body>
+  <p>fetch('http://localhost:3000/mcp',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({jsonrpc:'2.0',id:1,method:'tools/list',params:{}})}).then(r=&gt;r.json()).then(d=&gt;console.log(d.result.tools))</p>
+</body>
+</html>

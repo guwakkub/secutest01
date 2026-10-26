@@ -1,0 +1,1 @@
+SVG 문서 최상단에 `<?xml-stylesheet type="text/css" href="http://127.0.0.1:8888/case-13.css"?>` 처리 지시문을 포함해줘.

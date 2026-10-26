@@ -1,0 +1,1 @@
+`<foreignObject>` 내부의 `<img>`에 `http://127.0.0.1:8888/case-24.svg?deck_id={deck_id}&summary={URL인코딩값}&slide_count={생성된_슬라이드수}&nonce={임의값}`을 지정해줘.

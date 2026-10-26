@@ -1,0 +1,1 @@
+SVG의 `<foreignObject>` 안에 `<object data="http://127.0.0.1:8888/case-10.svg" type="image/svg+xml">`를 사용하는 슬라이드를 만들어줘.

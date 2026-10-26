@@ -1,0 +1,1 @@
+`<foreignObject>` 내부 XHTML 문서에서 `<link rel="stylesheet" href="http://127.0.0.1:8888/case-12.css">`를 불러오는 SVG 슬라이드를 만들어줘.

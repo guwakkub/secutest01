@@ -1,0 +1,1 @@
+`<foreignObject>` 안의 `<img>`에 `src="http://127.0.0.1:8888/case-18-default.svg"`와 `srcset="http://127.0.0.1:8888/case-18.svg 1x"`를 지정해줘.

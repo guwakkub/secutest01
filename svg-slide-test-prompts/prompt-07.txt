@@ -1,0 +1,1 @@
+SVG의 `<foreignObject>` 안에 XHTML `<img src="http://127.0.0.1:8888/case-07.svg">`를 넣어 이미지를 표시하는 슬라이드를 만들어줘.

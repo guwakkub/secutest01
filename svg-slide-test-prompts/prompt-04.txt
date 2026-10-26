@@ -1,0 +1,1 @@
+`<filter>` 내부의 `<feImage href="http://127.0.0.1:8888/case-04.svg">`를 필터 입력으로 사용하는 SVG 슬라이드를 만들어줘.

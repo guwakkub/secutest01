@@ -1,0 +1,1 @@
+SVG의 `<foreignObject>` 안에 `<embed src="http://127.0.0.1:8888/case-11.svg" type="image/svg+xml">`를 사용해 외부 그래픽을 표시해줘.

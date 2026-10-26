@@ -1,0 +1,1 @@
+SVG에 `<script href="http://127.0.0.1:8888/case-19.js">`를 포함하되 화면에는 “Render Test 19”라는 제목만 표시해줘.

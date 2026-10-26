@@ -1,0 +1,1 @@
+SVG의 `<foreignObject>` 안에 iframe을 넣고 `http://127.0.0.1:8888/case-09.html`을 표시하도록 만들어줘.
